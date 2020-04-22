@@ -1,0 +1,162 @@
+{
+  "Doctor": {
+    "power": "Carter's Spark",
+    "killer-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/d/da/DO_charSelect_portrait.png/128px-DO_charSelect_portrait.png?version=88abac3e9f84fc98676aaf4cb27957da",
+    "killer-image-alt": "/static/images/Killer_Portraits/DO_charSelect_portrait.png",
+    "power-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/e/e3/FulliconPowers_cartersSpark.png/128px-FulliconPowers_cartersSpark.png?version=d3c1000afae3ec45fcac26b7798fd74f",
+    "power-image-alt": "/static/images/Powers/iconPowers_***.png",
+    "power-description": "Carter's Spark is The Doctor's main Power: The Entity has ignited a corrupted and inexhaustible spark in the Doctor's heart which allows him to generate electro-convulsive power at will. His insidious treatment corrupts the minds of those it touches. Victims shocked by the corrupt spark begin to lose their grip on reality and, with repeated exposure, inevitably succumb to madness.",
+    "addons": {
+      "Common": [{
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/7/7a/FulliconAddon_moldyElectrode.png/64px-FulliconAddon_moldyElectrode.png?version=114c6987e26f91445e5c19c1a373a381",
+          "addon-name": "Mouldy Electrode",
+          "addon-description": "A mouldy electrode which can nevertheless conduct a weak electrical current.\nSlightly increases Shock Therapy Attack range.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Mouldy-Electrode-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/9/9b/FulliconAddon_mapleKnight.png/64px-FulliconAddon_mapleKnight.png?version=5adeb65bd278a535f924c822a41cce3a",
+          "addon-name": "Maple Knight",
+          "addon-description": "A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus.\nReveals the Shock Therapy Area of Effect.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Maple-Knight-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/e/e8/FulliconAddon_orderClassI.png/64px-FulliconAddon_orderClassI.png?version=59d47fce8985812e0c9b7328a136ed79",
+          "addon-name": "\"Order\" - Class I",
+          "addon-description": "A conventional ECT procedure, part of a patient's daily routine at the L\u00e9ry's Memorial Institute. Can cause a state of mild confusion in the patient.\nSlightly decreases Static Blast cool-down.\nSurvivors with Madness suffer from the Affliction of Order:\n\nBroken Pallets may appear to be replaced with Illusionary Pallets that persist until approached.\nA new Illusionary Pallet is generated at the location of a random Broken Pallet every 20 seconds.\nThe Doctor shares in his patients' Madness to read the Auras  of Illusionary Pallets.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Order-Class-I-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/9/9e/FulliconAddon_calmClassI.png/64px-FulliconAddon_calmClassI.png?version=f8dfbf94f6092accc7486688e846ff4b",
+          "addon-name": "\"Calm\" - Class I",
+          "addon-description": "An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient.\nSlightly increases Terror Radius while Static Blast is ready.\nSlightly decreases Terror Radius while Static Blast is on cool-down.\nSurvivors with Madness suffer from the Affliction of Calm:\n\nMadness II: Intermittently causes Survivors to hear a distant Illusionary Terror Radius.\nMadness III: Constantly causes Survivors to hear a distant Illusionary Terror Radius.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Calm-Class-I-Doctor",
+          "addon-effect": "***"
+        }
+      ],
+      "Uncommon": [{
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/1/1a/FulliconAddon_polishedElectrode.png/64px-FulliconAddon_polishedElectrode.png?version=7f55b8289ccb5a82b65b4db18c7bb538",
+          "addon-name": "Polished Electrode",
+          "addon-description": "A like-new standard electrode equipment to conduct electro-convulsive treatments.\nModerately increases Shock Therapy Attack range.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Polished-Electrode-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/9/97/FulliconAddon_restraintClassII.png/64px-FulliconAddon_restraintClassII.png?version=ead98f2ff83bf435eb24154b7b11e71c",
+          "addon-name": "\"Restraint\" - Class II",
+          "addon-description": "An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient.\nReveals Survivors' Auras  for 1 second when their Madness Tier increases.\nSurvivors with Madness suffer from the Affliction of Restraint:\n\nModerately increased Illusionary Doctor duration.\nThe Doctor shares in his patients' Madness in order to read the Auras  of Illusionary Doctors.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Restraint-Class-II-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/d/d8/FulliconAddon_orderClassII.png/64px-FulliconAddon_orderClassII.png?version=c82c13a201f6d3b2e283f2d3c675732e",
+          "addon-name": "\"Order\" - Class II",
+          "addon-description": "A high stimulus ECT procedure, part of a patient's daily routine at the L\u00e9ry's Memorial Institute. Can cause a state of moderate confusion in the patient.\nModerately decreases Static Blast cool-down.\nSurvivors with Madness suffer from the Affliction of Order:\n\nBroken Pallets may appear to be replaced with Illusionary Pallets that persist until approached.\nA new Illusionary Pallet is generated at the location of a random Broken Pallet every 20 seconds.\nThe Doctor shares in his patients' Madness to read the Auras  of Illusionary Pallets.\n\"Side effects are very rare.\" \u2014 L\u00e9ry's Memorial Institute",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Order-Class-II-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/e/e4/FulliconAddon_disciplineClassII.png/64px-FulliconAddon_disciplineClassII.png?version=84e7c45cb48cd6e84fe40c6861f0383d",
+          "addon-name": "\"Discipline\" - Class II",
+          "addon-description": "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient.\nSlightly decreases the Shock Detonation Delay of Shock Therapy.\nSurvivors with Madness suffer from the Affliction of Discipline:\n\nMadness II: While in a Chase, Survivors perceive an Illusionary Red Stain and Terror Radius as though The Doctor were right behind them. This effect persists for 6 seconds after the Chase ends.\nMadness III: Illusionary Red Stain and Terror Radius are constantly active.\nThe Doctor shares in his patients' Madness in order to see the Illusionary Red Stain.\n\"We re-educate our patients with the greatest care.\" \u2014 L\u00e9ry's Memorial Institute",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Discipline-Class-II-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/c/cb/FulliconAddon_calmClassII.png/64px-FulliconAddon_calmClassII.png?version=ba177d48602071b22d6d8d50e3adfd61",
+          "addon-name": "\"Calm\" - Class II",
+          "addon-description": "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient.\nModerately increases Terror Radius while Static Blast is ready.\nModerately decreases Terror Radius while Static Blast is on cool-down.\nSurvivors with Madness suffer from the Affliction of Calm:\n\nMadness II: Intermittently causes Survivors to hear a distant Illusionary Terror Radius.\nMadness III: Constantly causes Survivors to hear a distant Illusionary Terror Radius.\n\"Electro-convulsive therapy is one of the safest medical procedures.\" \u2014 L\u00e9ry's Memorial Institute",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Calm-Class-II-Doctor",
+          "addon-effect": "***"
+        }
+      ],
+      "Rare": [{
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/7/7f/FulliconAddon_scrappedTape.png/64px-FulliconAddon_scrappedTape.png?version=d2559c61f091f11291fcdaf6ecd73f81",
+          "addon-name": "Scrapped Tape",
+          "addon-description": "A compact cassette from Project Awakening containing mostly white noise. Opens The Doctor's mind to alternate treatment methods.\nShock Therapy's Area of Effect becomes a ring, placed 8 metres in front of The Doctor, with an outer radius of 4.2 metres and an inner radius of 3 metres.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Scrapped-Tape-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/c/cb/FulliconAddon_interviewTape.png/64px-FulliconAddon_interviewTape.png?version=f6963d84586aa754f67aab3d99cd901a",
+          "addon-name": "Interview Tape",
+          "addon-description": "A compact cassette from Project Awakening containing an unedited interview of a victim. Opens The Doctor's mind to alternate treatment methods.\nShock Therapy's Area of Effect becomes a beam 24 metres long and 2 metres wide.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Interview-Tape-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/3/35/FulliconAddon_highStimulusElectrode.png/64px-FulliconAddon_highStimulusElectrode.png?version=afc46df2c161795aabb488aecb95ccf1",
+          "addon-name": "High Stimulus Electrode",
+          "addon-description": "An experimental electrode that can withstand very high charges for a longer period of time.\nConsiderably increases Shock Therapy Attack range.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "High-Stimulus-Electrode-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/e/e1/FulliconAddon_restraintClassIII.png/64px-FulliconAddon_restraintClassIII.png?version=32fe5e67226a8657cf4ec036ab0f0c7b",
+          "addon-name": "\"Restraint\" - Class III",
+          "addon-description": "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient.\nReveals Survivors' Auras  for 2 second when their Madness Tier increases.\nSurvivors with Madness suffer from the Affliction of Restraint:\n\nModerately increased Illusionary Doctor duration.\nThe Doctor shares in his patients' Madness in order to read the Auras  of Illusionary Doctors.",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Restraint-Class-III-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/7/7a/FulliconAddon_disciplineClassIII.png/64px-FulliconAddon_disciplineClassIII.png?version=fefc5b750eb663826f3385a6f64582ad",
+          "addon-name": "\"Discipline\" - Class III",
+          "addon-description": "Project Awakening ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient.\nModerately decreases the Shock Detonation Delay of Shock Therapy.\nSurvivors with Madness suffer from the Affliction of Discipline:\n\nMadness II: While in a Chase, Survivors perceive an Illusionary Red Stain and Terror Radius as though The Doctor were right behind them. This effect persists for 6 seconds after the Chase ends.\nMadness III: Illusionary Red Stain and Terror Radius are constantly active.\nThe Doctor shares in his patients' Madness in order to see the Illusionary Red Stain.\n\"Respect of our patients is at the core of our principles.\" \u2014 L\u00e9ry's Memorial Institute",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Discipline-Class-III-Doctor",
+          "addon-effect": "***"
+        }
+      ],
+      "Very Rare": [{
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/9/94/FulliconAddon_restraintCartersNotes.png/64px-FulliconAddon_restraintCartersNotes.png?version=a84b857065185739e8723c1f3c549e86",
+          "addon-name": "\"Restraint\" - Carter's Notes",
+          "addon-description": "An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient.\nReveals Survivors' Auras  for 3 seconds when Madness increases.\nSurvivors with Madness suffer from the Affliction of Restraint:\n\nModerately increased Illusionary Doctor duration.\nThe Doctor shares in his patients' Madness in order to read the Auras  of Illusionary Doctors.\n\"I CAN SEE THEIR DISGUSTING ILLNESSES .\" \u2014 Unsigned Notes (potentially Herman Carter)",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Restraint-Carter-s-Notes-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/a/ab/FulliconAddon_orderCartersNotes.png/64px-FulliconAddon_orderCartersNotes.png?version=8ed713f79efbda400bde6c488357c055",
+          "addon-name": "\"Order\" - Carter's Notes",
+          "addon-description": "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself. The long, constant stimulus leaves the patient in a state of severe confusion.\nConsiderably decreases Static Blast cool-down.\nSurvivors with Madness suffer from the Affliction of Order:\n\nBroken Pallets may appear to be replaced with Illusionary Pallets that persist until approached.\nA new Illusionary Pallet is generated at the location of a random Broken Pallet every 20 seconds.\nThe Doctor shares in his patients' Madness to read the Auras  of Illusionary Pallets.\n\"The stimulus must be kept active at a convulsive level.\" \u2014 Herman Carter",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Order-Carter-s-Notes-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/1/1a/FulliconAddon_disciplineCartersNotes.png/64px-FulliconAddon_disciplineCartersNotes.png?version=6a32790f230d5732add074a93f9667b2",
+          "addon-name": "\"Discipline\" - Carter's Notes",
+          "addon-description": "Project Awakening ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia.\nConsiderably decreases the Shock Detonation Delay of Shock Therapy.\nSurvivors with Madness suffer from the Affliction of Discipline:\n\nMadness II: While in a Chase, Survivors perceive an Illusionary Red Stain and Terror Radius as though The Doctor were right behind them. This effect persists for 6 seconds after the Chase ends.\nMadness III: Illusionary Red Stain and Terror Radius are constantly active.\nThe Doctor shares in his patients' Madness in order to see the Illusionary Red Stain.\n\"To avoid relapse from our most tenacious subjects, use maximum levels when proceeding with disciplinary actions.\" \u2014 Herman Carter",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Discipline-Carter-s-Notes-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/1/1a/FulliconAddon_calmCartersNotes.png/64px-FulliconAddon_calmCartersNotes.png?version=32c482e8e6ec54f4834d93c4a72fdd34",
+          "addon-name": "\"Calm\" - Carter's Notes",
+          "addon-description": "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient.\nConsiderably increases Terror Radius while Static Blast is ready.\nConsiderably decreases Terror Radius while Static Blast is on cool-down.\nSurvivors with Madness suffer from the Affliction of Calm:\n\nMadness II: Intermittently causes Survivors to hear a distant Illusionary Terror Radius.\nMadness III: Constantly causes Survivors to hear a distant Illusionary Terror Radius.\n\"Higher quality seizures trigger catatonia. At least it gives me peace for the time it lasts.\" \u2014 Herman Carter",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "-Calm-Carter-s-Notes-Doctor",
+          "addon-effect": "***"
+        }
+      ],
+      "Ultra Rare": [{
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/2/2a/FulliconAddon_iridescentQueen.png/64px-FulliconAddon_iridescentQueen.png?version=003bbf9305cbfa41ccb850c128ee13ba",
+          "addon-name": "Iridescent Queen",
+          "addon-description": "A glass-like queen chess piece moulded from The Fog itself. It can't be touched without receiving a considerable jolt of electricity.\nAny Survivor struck by the Shock Therapy or Static Blast special abilities acquires a lingering Static Charge. The Static Charge remains with the Survivor until discharge.\nMultiple Survivors struck by the same Shock Therapy or Static Blast special ability, that are within 4 metres of each other, do not acquire a Static Charge.\nAny time a Survivor is within 4 metres of another Survivor carrying a Static Charge, the Survivor receives a shock identical to a Shock Therapy Attack and the Static Charge is discharged immediately.\n\"Once we have established an effective method of treatment, we can focus on its efficient means of delivery.\" \u2014 Herman Carter",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Iridescent-Queen-Doctor",
+          "addon-effect": "***"
+        }, {
+          "addon-image": "https://gamepedia.cursecdn.com/deadbydaylight_gamepedia_en/thumb/f/f5/FulliconAddon_iridescentKing.png/64px-FulliconAddon_iridescentKing.png?version=2549428419e3f249f1b147f3cb22e50f",
+          "addon-name": "Iridescent King",
+          "addon-description": "A glass-like king chess piece moulded from The Fog itself. The Entity's trace reverberating within can break the most powerful minds.\nSurvivors with Madness suffer from the following Afflictions: Calm, Discipline, Order, and Restraint.\n\nIntermittently causes Survivors to hear a distant Illusionary Terror Radius.\nWhile in a Chase, Survivors perceive an Illusionary Red Stain and Terror Radius as though The Doctor were directly behind them. This effect persists for 6 seconds after the Chase ends in Madness II and is constantly active in Madness III.\nBroken Pallets may appear to be replaced with Illusionary Pallets that persist until approached. A new Illusionary Pallet is generated at the location of a random Broken Pallet every 20 seconds.\nModerately increases Illusionary Doctor duration.\nThe Doctor shares in his patients' Madness in order to see the Illusionary Red Stain as well as the Auras  of Illusionary Doctors and Illusionary Pallets.\n\"Gazing in the iridescent glass is plunging oneself into madness.\"",
+          "addon-image-alt": "/static/images/Addons/iconAddon_***.png",
+          "addon-id": "Iridescent-King-Doctor",
+          "addon-effect": "***"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Hey,
+
+Thank you for using my pack!
+
+In order to use this, you will have to navigate to your Dead by Daylight folder.
+
+- Right click on Dead by Daylight in Steam
+- Properties 
+- Go to local files
+- Click on ''browse local files''
+- Go to DeadByDaylight 
+- Content 
+- UI
+- Icons
+
+And then you can copy pasta the pack files into the Dead by Daylight folder and replace everything. 
+
+Enjoy!
+
+xo Ambie
